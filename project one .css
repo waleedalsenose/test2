@@ -1,0 +1,32 @@
+* {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+body {
+  position: relative;
+}
+.container {
+  position: absolute;
+  left: 500px;
+  top: 100px;
+  background-color: hsl(0, 0%, 100%);
+  border: 10px solid hsl(0, 0%, 100%);
+  border-radius: 13px;
+}
+div {
+  background-color: hsl(0, 0%, 100%);
+}
+img {
+  width: 230px;
+  border-radius: 7px;
+}
+.header {
+  background-color: hsl(0, 0%, 100%);
+  font-family: "Outfit", sans-serif;
+}
+.pargraph {
+  background-color: hsl(0, 0%, 100%);
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
